@@ -2,4 +2,7 @@ body {
   margin: 20% auto;
   width: 50%;
   height: 75%;
+  background-color: orchid;
 }
+input{background-color: seagreen; color: deeppink;}
+button{background-color: springgreen;}
